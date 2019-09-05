@@ -11,7 +11,7 @@ A collection of a few fun projects implemented in Processing
 
 ## [Untangle](Untangle)
 
-> Some basic line segment intersection detection algorithms, which is essential for a playable game of Planarity
+> Some basic line segment intersection detection algorithms, which are essential for a playable game of Planarity
 
 ## [Interesante.pdf](Interesante.pde)
 
