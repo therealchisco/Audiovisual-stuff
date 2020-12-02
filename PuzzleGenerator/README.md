@@ -30,9 +30,3 @@ For more information refer to the [wikipedia article](https://en.wikipedia.org/w
 
 ### Notes
 Some ambiguity exists in the "every line pair" statement:
-
-
-
-
-### Issues / Bugs
-Depending on the 
